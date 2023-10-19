@@ -1,2 +1,2 @@
 # Excel-and-Power-bi-assignment-solutions
-This is the solutions of the excel assignments of excelr institution and also included the power bi solutions 
+This repository contains solutions to the Excel assignments offered by ExcelR Institution. Additionally, it includes solutions for Power BI exercises. Whether you're a student looking for reference materials or an Excel and Power BI enthusiast seeking insights, you'll find valuable resources here. Explore the various folders and files to access the solutions and enhance your proficiency in these data analysis tools.
